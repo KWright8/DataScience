@@ -6,7 +6,7 @@
 [Grouping and Aggregation](src/GroupingAgg.py)<br />
 
 ### Data Visualization Basics
-[Three Types]<br />
+[Three Types](src/TypesOfVisualizations.md)<br />
 [Choosing Most Optimal]<br />
 [Communicating with Color and Context]<br />
 ### Practical Data Visualization
