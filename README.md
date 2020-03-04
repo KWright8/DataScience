@@ -1,3 +1,2 @@
-# Data Science
-#### Data Prep
+### Data Prep
 [Intro](src/IntroToDataScience.py)
