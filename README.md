@@ -11,4 +11,4 @@
 ### Data Sourcing via Web Scraping
 ### Colabrative Analytics & Plotly
 ### How I've Grown
-
+*My notes/work from completing Python for Data Science Essential Training*
