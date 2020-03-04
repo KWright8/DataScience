@@ -7,7 +7,7 @@
 
 ### Data Visualization Basics
 [Three Types](src/TypesOfVisualizations.md)<br />
-[Choosing Most Optimal]<br />
+[Choosing Most Optimal](src/SelectingOptimalDataGraphics.md)<br />
 [Communicating with Color and Context]<br />
 ### Practical Data Visualization
 [Creating Standar Data Graphics]<br />
