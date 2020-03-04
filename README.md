@@ -3,7 +3,7 @@
 [MissingValues](src/MissingValues.py)<br />
 [Removing Duplicates](src/RemovingDuplicates.py)<br />
 [Concateation and Transformation](src/ConcatNTransform.py)<br />
-[Grouping and Aggregation]<br />
+[Grouping and Aggregation](src/GroupingAgg.py)<br />
 
 ### Data Visualization Basics
 ### Practical Data Visualization
