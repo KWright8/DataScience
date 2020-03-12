@@ -10,7 +10,7 @@
 [Choosing Most Optimal](src/SelectingOptimalDataGraphics.md)<br />
 [Communicating with Color and Context](src/CommunicatingColorContext.md)<br />
 ### Practical Data Visualization
-[Creating Standar Data Graphics]<br />
+[Creating Standar Data Graphics](src/CreatingStandardGraphics.py)<br />
 [Defining Elements of a Plot]<br />
 [Plot Formatting]<br />
 [Creating Labels and Annotations]<br />
