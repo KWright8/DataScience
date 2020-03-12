@@ -26,6 +26,18 @@
 [Extreme Value Analysis for Outliers]<br />
 [Multivarient Analysis for Outliers]<br />
 ### Data Sourcing via Web Scraping
+[BeautifulSoup obect]<br />
+[NavigableString objects]<br />
+[Data parsing]<br />
+[Into to NLP]<br />
+[Cleaning and Stemming textual data]<br />
+[Lemmatizing ad analyzing textual data]<br />
 ### Colabrative Analytics & Plotly
+[Intro to Plotly]
+[Create statistical charts]
+[Line charts in Plotly]
+[Bar charts in Plotly]
+[Create statistical charts (again)]
 ### How I've Grown
+[Practice](https://www.kaggle.com/datasets)
 *(My notes/work from completing Python for Data Science Essential Training)*
