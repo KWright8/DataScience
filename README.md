@@ -39,5 +39,5 @@
 [Bar charts in Plotly]
 [Create statistical charts (again)]
 ### How I've Grown
-[Practice](https://www.kaggle.com/datasets)
+[Practice](https://www.kaggle.com/datasets) <br />
 *(My notes/work from completing Python for Data Science Essential Training)*
