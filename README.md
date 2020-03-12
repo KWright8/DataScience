@@ -11,7 +11,7 @@
 [Communicating with Color and Context](src/CommunicatingColorContext.md)<br />
 ### Practical Data Visualization
 [Creating Standar Data Graphics](src/CreatingStandardGraphics.py)<br />
-[Defining Elements of a Plot]<br />
+[Defining Elements of a Plot](src/DefiningElemntsofPlots.py)<br />
 [Plot Formatting]<br />
 [Creating Labels and Annotations]<br />
 [Visualizing Time Series]<br />
